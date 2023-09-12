@@ -8,7 +8,7 @@
  
  <p align="center">
  <picture>
- <img alt="weather-app-UI" height="500px" src="https://drive.google.com/uc?id=1xcjzTCfMJMpzKflhHwewDxBKDk6ERazJ">
+ <img alt="weather-app-UI" height="500px" src="https://user-images.githubusercontent.com/78508685/267454019-f8d36573-8974-4a80-9124-2c981b6c2478.png">
  </picture>
 
 
@@ -32,3 +32,6 @@ Get your Weather API key here: https://openweathermap.org/
 11. Build and run the application
 12. Note on how to use FaceID in simulator: once the app is running, click on Features -> FaceID -> Enrolled. Then, click the Authorize button on the screen. Once the FaceID window pops up, click Features -> FaceID -> Matching Face.
 13. Clicking the Add Entry button adds an entry to the real-time database
+
+<img width="1349" alt="Realtime Database" src="https://github.com/jchen3014/CS4261_PA1/assets/78508685/3d223c00-cf21-4d94-b96d-32943ff7a6e0">
+
