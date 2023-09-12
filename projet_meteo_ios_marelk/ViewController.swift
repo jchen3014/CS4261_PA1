@@ -190,7 +190,7 @@ class ViewController: UIViewController ,  UITextFieldDelegate {
         view.addSubview(authButton)
         //authButton.center = view.center
         authButton.setTitle("Authorize", for: .normal)
-        authButton.backgroundColor = .systemGreen
+        authButton.backgroundColor = .systemTeal
         authButton.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
     
         
